@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12917404,
       "digest": null,
-      "download_count": 413257,
+      "download_count": 413278,
       "created_at": "2018-08-10T20:06:53Z",
       "updated_at": "2018-08-10T20:06:57Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-linux-amd64"
