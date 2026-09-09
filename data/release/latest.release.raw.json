@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12835248,
       "digest": null,
-      "download_count": 15228,
+      "download_count": 15229,
       "created_at": "2018-08-10T20:06:50Z",
       "updated_at": "2018-08-10T20:06:52Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-darwin-amd64"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12917404,
       "digest": null,
-      "download_count": 413246,
+      "download_count": 413257,
       "created_at": "2018-08-10T20:06:53Z",
       "updated_at": "2018-08-10T20:06:57Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-linux-amd64"
