@@ -1,0 +1,107 @@
+- repo: altsisyphus
+  srcname: kubesec
+  binnames:
+    - kubesec
+    - kubesec-debuginfo
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: 2.14.2-alt2
+  status: newest
+  summary: Security risk analysis for Kubernetes resources
+  maintainers:
+    - tulskijms@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - Development/Other
+- repo: nix_stable_24_05
+  srcname: kubesec
+  visiblename: kubesec
+  version: 2.14.0
+  origversion: null
+  status: outdated
+  summary: Security risk analysis tool for Kubernetes resources
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_24_11
+  srcname: kubesec
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: null
+  status: newest
+  summary: Security risk analysis tool for Kubernetes resources
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: kubesec
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: null
+  status: newest
+  summary: Security risk analysis tool for Kubernetes resources
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: kubesec
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: null
+  status: newest
+  summary: Security risk analysis tool for Kubernetes resources
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: kubesec
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: null
+  status: newest
+  summary: Security risk analysis tool for Kubernetes resources
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: kubesec
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: null
+  status: newest
+  summary: Security risk analysis tool for Kubernetes resources
+  maintainers:
+    - mail@fabian-affolter.ch
+    - hello+nixpkgs@j-k.io
+  licenses:
+    - Apache-2.0
+- repo: opensuse_tumbleweed
+  subrepo: src-oss
+  srcname: kubesec
+  binnames:
+    - kubesec
+    - kubesec-debuginfo
+    - kubesec-debugsource
+    - kubesec-bash-completion
+    - kubesec-fish-completion
+    - kubesec-zsh-completion
+  visiblename: kubesec
+  version: 2.14.2
+  origversion: 2.14.2-1.9
+  status: newest
+  summary: Security risk analysis for Kubernetes resources
+  licenses:
+    - Apache-2.0
+  categories:
+    - Unspecified
