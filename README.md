@@ -30,8 +30,8 @@ Overall score: **2.6 / 10**
 
 Lowest-scoring checks:
 
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Dangerous-Workflow** (-1/10) — no workflows found
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
 
 ## Source
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-17 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last720d | 2024-09-25 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 30d | 2026-08-17 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-18 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-20 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-21 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last720d | 2024-09-26 | 0 | 0 | 0 | 0 | 1 | 0 |
 
 ## Release assets
 
@@ -84,4 +84,4 @@ Install metadata for kubesec lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260915.yml` · 2026-09-15T05:46:00Z._
+_Snapshot: `data/card/260916.yml` · 2026-09-16T05:37:11Z._
