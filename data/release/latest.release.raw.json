@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 12835248,
       "digest": null,
-      "download_count": 15243,
+      "download_count": 15248,
       "created_at": "2018-08-10T20:06:50Z",
       "updated_at": "2018-08-10T20:06:52Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": null,
-      "download_count": 616,
+      "download_count": 617,
       "created_at": "2018-08-10T20:06:53Z",
       "updated_at": "2018-08-10T20:06:53Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-darwin-amd64.asc"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 12917404,
       "digest": null,
-      "download_count": 413720,
+      "download_count": 413747,
       "created_at": "2018-08-10T20:06:53Z",
       "updated_at": "2018-08-10T20:06:57Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-linux-amd64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": null,
-      "download_count": 15665,
+      "download_count": 15667,
       "created_at": "2018-08-10T20:06:57Z",
       "updated_at": "2018-08-10T20:06:57Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-linux-amd64.asc"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 12901888,
       "digest": null,
-      "download_count": 182,
+      "download_count": 184,
       "created_at": "2018-08-10T20:06:47Z",
       "updated_at": "2018-08-10T20:06:49Z",
       "browser_download_url": "https://github.com/shyiko/kubesec/releases/download/0.9.2/kubesec-0.9.2-windows-amd64.exe"
